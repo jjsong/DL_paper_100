@@ -2,9 +2,7 @@
 
 
 
-[001_Gernative_Adversarial_Nets](./001_Generative_Adversarial_Nets/001_Generative_Adversarial_Nets.md)  
-
-PR12_JJY  [ppt](./001_Generative_Adversarial_Nets/GAN_PR12_JJY/GAN_PR12_JJY.pdf)
+[001_Gernative_Adversarial_Nets](./001_Generative_Adversarial_Nets/GAN/1406.2661v1.pdf)  PR12_JJY : [ppt](./001_Generative_Adversarial_Nets/GAN_PR12_JYOO/GAN_PR12_JYOO.pdf) [video](https://www.youtube.com/watch?v=L3hz57whyNw&index=2&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
   
 
