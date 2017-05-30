@@ -2,7 +2,7 @@
 
 
 
-[001_Gernative_Adversarial_Networks](./001_Gernerative_Adversarial_Networks/001_Gernerative_Adversarial_Networks.md)
+[001_Gernative_Adversarial_Networks](./001_Generative_Adversarial_Networks/001_Generative_Adversarial_Networks.md)
 
 
 
