@@ -4,7 +4,9 @@
 
 [001_Gernative_Adversarial_Nets](./001_Generative_Adversarial_Nets/001_Generative_Adversarial_Nets.md)  
 
-PR12_jjy : ppt youtube 
+PR12_JJY  [ppt](./001_Generative_Adversarial_Nets/GAN_PR12_JJY/GAN_PR12_JJY.pdf)
+
+  
 
 
 
